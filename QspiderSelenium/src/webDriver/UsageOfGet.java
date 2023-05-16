@@ -25,6 +25,5 @@ public class UsageOfGet {
 		WebDriver driver = new ChromeDriver();
 		//passing the URL , trigger the URL
 		driver.get("https://www.facebook.com/");
-		RemoteWebDriver d;
 	}
 }
